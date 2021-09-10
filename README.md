@@ -1,7 +1,6 @@
 ### Hi, Welcome 👋
 
 ![knae11's github stats](https://github-readme-stats.vercel.app/api?username=knae11&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knae11&layout=compact&theme=radical)](https://github.com/knae11/github-readme-stats)
 
 <!--
 **knae11/knae11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
